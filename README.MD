@@ -7,3 +7,7 @@ I understand that you, the user, are the author "dharmeshtester". However, I am 
 ## Other Repositories
 
 I am unable to find any other public repositories associated with the user "dharmeshtester". If you would like me to list your other repositories, please provide me with a list of their URLs.
+
+## Repository Issues
+
+I am unable to view the issues in this repository. My tools do not allow me to browse GitHub. If you would like me to address any issues, please provide me with the details of each issue directly in our conversation.
